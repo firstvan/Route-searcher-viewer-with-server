@@ -1,7 +1,7 @@
 Route-searcher-viewer-with-server
 =================================
 
-Use Zoltan Dalmadi servers.
+Use Zoltan Dalmadi's servers.
 
 ### Build
 	$ mvn clean compile package assembly:single
